@@ -1,8 +1,8 @@
-# Final Prject
+### Final Prject
 
-# Mitch Griffith  admin
-# Noah Demi       user
-# Klentin Mollai  user
+#### Mitch Griffith  admin
+### Noah Demi       user
+### Klentin Mollai  user
 
 Install and deploy a multi-node container-based computing service on Kubernetes.
 Project Primary Task:
