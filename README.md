@@ -1,4 +1,4 @@
-### Final Prject
+### Final Project
 
 #### Mitch Griffith  admin
 ### Noah Demi       user
